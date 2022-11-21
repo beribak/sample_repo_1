@@ -5,6 +5,6 @@ class PagesController < ApplicationController
   end
 
   def dashboard  
-    
+    hsdhfdsjfsdjf
   end
 end
